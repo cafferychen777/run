@@ -9,3 +9,7 @@
 - 华科光电飞跃计划 [华科光电飞跃计划](https://hust-feiyue.github.io/2020_feiyue.pdf)
 
 - 浙江大学电气学院飞跃计划 [浙江大学电气学院飞跃手册](http://ee.zju.edu.cn/_s575/51847/list.psp)
+-上海交通大学生存手册[上海交通大学生存手册润学部分](https://survivesjtu.gitbook.io/survivesjtumanual/fang-tan-ji/untitled)
+
+
+
