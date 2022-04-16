@@ -17,3 +17,6 @@
 - 北京邮电大学飞跃手册 [北京邮电大学飞跃手册](https://github.com/luochang212/BUPT-ICS-Courseware/blob/master/Grade_3/%E5%A4%A7%E4%B8%89%EF%BC%88%E4%B8%8A%EF%BC%89/%E5%8C%97%E9%82%AE%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C.pdf)
 
 - 中国科学技术大学数学学院飞跃手册 [中国科学技术大学数学学院飞跃手册](http://home.ustc.edu.cn/~hichychen/fly2020.html)
+
+- 南京大学EE系飞跃手册 [南京大学EE系飞跃手册](https://picture.iczhiku.com/weixin/message1630843323166.html)
+
